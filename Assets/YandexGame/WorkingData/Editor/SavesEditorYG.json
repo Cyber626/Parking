@@ -1,0 +1,18 @@
+{
+    "idSave": 52,
+    "isFirstSession": false,
+    "language": "en",
+    "promptDone": false,
+    "money": 32,
+    "newPlayerName": "fas",
+    "openLevels": [
+        true,
+        false,
+        false
+    ],
+    "level": 4,
+    "isMusicOn": false,
+    "isSoundOn": false,
+    "isDialogueShown": false,
+    "isControllerOn": false
+}
